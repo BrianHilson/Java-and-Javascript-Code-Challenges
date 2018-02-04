@@ -1,0 +1,6 @@
+Create a function that takes an integer n as a paremeter and returns n! (n factorial).
+
+Example:
+
+n = 4
+n! = 4 * 3 * 2 * 1 = 24
