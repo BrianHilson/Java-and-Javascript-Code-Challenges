@@ -1,0 +1,1 @@
+Create a function that takes a string as a paremeter, changes it to lower case, removes all special characters, and tests to see if it's a palindrome. The function returns true if the string is a palindrome, false if it is not.
