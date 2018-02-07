@@ -1,4 +1,5 @@
 Create a function which takes a sentence in the form of a string as a parameter and returns the length of the longest word.
+Punctuation is excluded from sentences given to the function.
 
 For example, the string given may be:
 
