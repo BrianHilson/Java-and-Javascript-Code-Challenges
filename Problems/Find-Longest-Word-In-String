@@ -1,0 +1,7 @@
+Create a function which takes a sentence in the form of a string as a parameter and returns the length of the longest word.
+
+For example, the string given may be:
+
+"May the force be with you."
+
+The function should return 5.
