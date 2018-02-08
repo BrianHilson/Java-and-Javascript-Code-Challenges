@@ -1,0 +1,10 @@
+Create a method which takes a sentence in the form of a string as a parameter, 
+and returns a string where the first letter of each word in the sentence is capitalized.
+
+Example input:
+
+"i vEry mUch eNJoy SHARp chEdDar!"
+
+Output:
+
+"I Very Much Enjoy Sharp Cheddar!"
