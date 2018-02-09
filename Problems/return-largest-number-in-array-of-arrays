@@ -1,0 +1,7 @@
+Create a function which returns an array consisting of the largest numbers from each array in an array of arrays.
+
+Input:
+var arr = [[4, 8, 2], [55, 2, 99, 224], [0], [398, 29376, 3874]];
+
+Output: 
+[8, 224, 0, 29376]
