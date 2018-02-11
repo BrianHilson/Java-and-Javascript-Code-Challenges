@@ -1,0 +1,6 @@
+Create a function which takes an array of strings and an integer as parameters. The function should change the given array into a
+bi-dimensional array, with the size of each sub-array determnined by the given integer.
+
+Example:
+Inputs: ["1", "2", "3", "4", "5", "6", "7"], 3
+Output: [["1", "2", "3"], ["4", "5", "6"], ["7"]]
