@@ -1,0 +1,8 @@
+Create a function which takes two parameters: a string "str" and an integer "num". The function returns a string which repeats "str",
+"num" times. 
+
+Example: 
+Inputs - str = "I want my ";
+         num = 3;
+         
+Output = "I want my I want my I want my "; (MTV)         
