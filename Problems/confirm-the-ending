@@ -1,0 +1,3 @@
+Create a function which takes two strings as parameters. The method checks if string 1 ends with string 2. 
+In other words, string 2 would be a substring of string 1, and ends string 1. If this is the case, the function return true, 
+else returns false.
