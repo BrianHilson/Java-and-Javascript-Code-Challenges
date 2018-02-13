@@ -1,0 +1,5 @@
+Create a function which takes two parameters: an array "arr" and an integer "num". The function returns an array with "num" items 
+removed from the beginning of the array.
+
+Example:  inputs = ["a", "b", "c", "d"], 2
+          output = ["c", "d"]
