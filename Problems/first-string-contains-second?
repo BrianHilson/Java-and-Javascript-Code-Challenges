@@ -1,0 +1,5 @@
+Create a function that takes a string array with two elements as a parameter, and returns a boolean. The function should return true
+if the first string contains all the characters in the second string, otherwise return false. The function should be case insensitive.
+
+Example:  input = ["dangnabbit", "dang"]
+          output = true
