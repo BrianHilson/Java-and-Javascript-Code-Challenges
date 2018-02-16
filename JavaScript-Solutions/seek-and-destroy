@@ -1,0 +1,20 @@
+/* From FreeCodeCamp: https://www.freecodecamp.org/challenges/seek-and-destroy */
+
+function destroyer(arr) {
+  var target = arguments[0];
+  var args = Array.prototype.slice.call(arguments);
+  var newArr = [];
+  for (var i = 0; i < target.length; i++) {
+    var destroy = false;
+    for (var j = 0; j < args.length; j++) {
+        if (target[i] === args[j]) {
+          destroy = true;
+        }
+    }
+    if (destroy === true) {
+    } else {
+      newArr.push(target[i]);
+    }
+  }
+  return newArr;
+}
