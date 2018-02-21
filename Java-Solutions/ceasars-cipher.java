@@ -15,9 +15,6 @@ package ceasarscypher;
 
 public class CeasarsCypher {
 
-    public static void main(String[] args) {
-    }
-
     public static String rot13(String str) {
         String returnStr = "";
         for (int i = 0; i < str.length(); i++) {
@@ -31,8 +28,6 @@ public class CeasarsCypher {
             char ch = (char) code;
             returnStr += String.valueOf(ch);
         }
-
         return returnStr;
     }
-
 }
